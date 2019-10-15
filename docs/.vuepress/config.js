@@ -12,6 +12,7 @@ module.exports = {
     markdown: {
         lineNumbers: true
     },
+    base:'/vuepress-blog/',
     themeConfig: {
         repo: 'chunyanhuang/vuepress-blog',
         nav: require("./nav.js"),
