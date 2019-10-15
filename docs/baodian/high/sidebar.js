@@ -6,10 +6,10 @@ module.exports = [
 			'/baodian/high/notes/cmd常用命令',
 		  ]
 		},{
-			title:'vuepress搭建博客流程',
+			title:'git常用命令',
 			collapsable: true,
 			children:[
-			  '/baodian/high/notes/vuepress搭建博客流程',
+			  '/baodian/high/notes/git常用命令',
 			]
 		  }
 	]

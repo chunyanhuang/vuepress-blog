@@ -1,9 +1,9 @@
 module.exports = [
 	{
-		  title:'js基础知识点',
+		  title:'基础知识',
 		  collapsable: true,
 		  children:[
-			'/baodian/zero/notes/bd1',
+			'/baodian/zero/notes/js基础知识',
 		  ]
 		}
 	]

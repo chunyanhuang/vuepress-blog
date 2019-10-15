@@ -1,6 +1,5 @@
-宝典zero下的readme
+基础知识的readme
 
-初级宝典
 
 
 
