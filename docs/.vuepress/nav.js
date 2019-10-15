@@ -13,8 +13,8 @@ module.exports = [
         // 有多级的时候一级就不允许点击了
         text: '前端算法',
 		items: [
-            {text: 'leetcode题解', link: '/suanfa/one/'},
-            {text: '算法归纳', link: '/suanfa/two/'},
+            {text: '✏️leetcode题解', link: '/suanfa/one/'},
+            {text: '💡算法归纳', link: '/suanfa/two/'},
         ]
     },
     {
