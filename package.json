@@ -1,0 +1,28 @@
+{
+  "name": "vuepress-blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chunyanhuang/vuepress-blog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chunyanhuang/vuepress-blog/issues"
+  },
+  "homepage": "https://github.com/chunyanhuang/vuepress-blog#readme",
+  "description": "",
+  "devDependencies": {
+    "vuepress": "^1.2.0"
+  }
+}
