@@ -1,6 +1,6 @@
 module.exports = {
     title: '前端知识仓',
-    description: '花里胡哨1 ',
+    description: '花里胡哨',
     // 默认在.vuepress目录下
     port: '7777',
     head: [
