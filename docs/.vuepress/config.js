@@ -26,6 +26,6 @@ module.exports = {
             }
         },
         editLinks: true,
-        editLinkText: '编辑'
+        editLinkText: 'Edit'
     }
 }
