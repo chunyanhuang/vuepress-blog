@@ -1,9 +1,9 @@
 module.exports = [
 	{
-		  title:'js基础知识点',
+		  title:'leetcode题解',
 		  collapsable: true,
 		  children:[
-			'/baodian/zero/notes/bd1',
+			'/suanfa/one/notes/leetcode题解',
 		  ]
 		}
 	]

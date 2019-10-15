@@ -6,8 +6,15 @@ module.exports = [
         // 有多级的时候一级就不允许点击了
         text: '学习笔记',
 		items: [
-            {text: '初级开发篇', link: '/baodian/zero/'},
-            {text: '中高进阶篇', link: '/baodian/high/'},
+            {text: '基础知识', link: '/baodian/zero/'},
+            {text: '常用命令', link: '/baodian/high/'},
+        ]
+    },{
+        // 有多级的时候一级就不允许点击了
+        text: '前端算法',
+		items: [
+            {text: 'leetcode题解', link: '/baodian/zero/'},
+            {text: '算法归纳', link: '/baodian/high/'},
         ]
     },
     {
