@@ -5,6 +5,10 @@
 
 ### 中等难度
 + [leetcode02.两数相加](./notes/leetcode02.两数相加)
++ [leetcode64.最小路径和](./notes/leetcode64.最小路径和)
 
 
+### 数据结构
 
+**链表**
++ [leetcode02.两数相加](./notes/leetcode02.两数相加)
