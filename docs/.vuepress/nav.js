@@ -18,7 +18,7 @@ module.exports = [
         ]
     },
     {
-        text: '服务相关',
+        text: '面试相关',
         items: [
 			{
                 text: '在线编辑',
