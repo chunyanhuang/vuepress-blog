@@ -16,9 +16,16 @@ module.exports = [
             {text: '✏️leetcode题解', link: '/suanfa/one/'},
             {text: '💡算法归纳', link: '/suanfa/two/'},
         ]
+    },{
+        // 有多级的时候一级就不允许点击了
+        text: '面试知识',
+		items: [
+            {text: 'js基础', link: '/interview/one/'},
+            {text: 'vue', link: '/interview/two/'},
+        ]
     },
     {
-        text: '面试相关',
+        text: '服务相关',
         items: [
 			{
                 text: '在线编辑',
