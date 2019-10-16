@@ -6,11 +6,13 @@
 ### 中等难度
 + [leetcode02.两数相加](./notes/leetcode02.两数相加)
 + [leetcode64.最小路径和](./notes/leetcode64.最小路径和)
++ [leetcode322.零钱兑换](./notes/leetcode322.零钱兑换)
 
 ### 算法
 
 **动态规划**
 + [leetcode64.最小路径和](./notes/leetcode64.最小路径和)
++ [leetcode322.零钱兑换](./notes/leetcode322.零钱兑换)
 
 ### 数据结构
 
