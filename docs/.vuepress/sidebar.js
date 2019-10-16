@@ -6,5 +6,8 @@ module.exports = {
 	'/baodian/high': require('../baodian/high/sidebar'),
 
 	'/suanfa/one': require('../suanfa/one/sidebar'),
-	'/suanfa/two': require('../suanfa/two/sidebar')
+	'/suanfa/two': require('../suanfa/two/sidebar'),
+
+	'/interview/one': require('../interview/one/sidebar'),
+	'/interview/two': require('../interview/two/sidebar')
 }
