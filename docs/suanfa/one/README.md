@@ -10,6 +10,9 @@
 + [leetcode322.零钱兑换](./notes/leetcode322.零钱兑换)
 + [leetcode518.零钱兑换II](./notes/leetcode518.零钱兑换II)
 
+### 困难难度
++ [leetcode135.分发糖果](./notes/leetcode135.分发糖果)
+
 ---
 ### 算法
 
