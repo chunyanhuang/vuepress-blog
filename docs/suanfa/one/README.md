@@ -6,6 +6,7 @@
 ### 中等难度
 + [leetcode02.两数相加](./notes/leetcode02.两数相加)
 + [leetcode03.无重复字符的最长子串](./notes/leetcode03.无重复字符的最长子串)
++ [leetcode22.括号生成](./notes/leetcode22.括号生成)
 + [leetcode64.最小路径和](./notes/leetcode64.最小路径和)
 + [leetcode322.零钱兑换](./notes/leetcode322.零钱兑换)
 + [leetcode518.零钱兑换II](./notes/leetcode518.零钱兑换II)
@@ -20,6 +21,9 @@
 + [leetcode64.最小路径和](./notes/leetcode64.最小路径和)
 + [leetcode322.零钱兑换](./notes/leetcode322.零钱兑换)
 + [leetcode518.零钱兑换II](./notes/leetcode518.零钱兑换II)
+
+**递归**
++ [leetcode22.括号生成](./notes/leetcode22.括号生成)
 
 ---
 ### 数据结构
