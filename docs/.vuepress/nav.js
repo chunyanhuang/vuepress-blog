@@ -20,7 +20,7 @@ module.exports = [
         // 有多级的时候一级就不允许点击了
         text: '面试知识',
 		items: [
-            {text: 'js基础', link: '/interview/one/'},
+            {text: 'js基础知识', link: '/interview/one/'},
             {text: 'vue', link: '/interview/two/'},
         ]
     },
