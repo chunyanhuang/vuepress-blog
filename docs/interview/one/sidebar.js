@@ -5,6 +5,7 @@ module.exports = [
 		  children:[
 			'/interview/one/notes/数组',
 			'/interview/one/notes/数据类型',
+			'/interview/one/notes/作用域',
 		  ]
 		}
 	]
