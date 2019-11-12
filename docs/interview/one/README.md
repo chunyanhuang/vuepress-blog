@@ -5,6 +5,9 @@
 + [数据类型](./notes/数据类型)
 + [数组](./notes/数组)
 + [作用域](./notes/作用域)
++ [闭包](./notes/闭包)
++ [原型](./notes/原型)
++ [promise](./notes/promise)
 
 
 

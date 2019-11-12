@@ -3,9 +3,12 @@ module.exports = [
 		  title:'js基础知识',
 		  collapsable: true,
 		  children:[
-			'/interview/one/notes/数组',
 			'/interview/one/notes/数据类型',
+			'/interview/one/notes/数组',
 			'/interview/one/notes/作用域',
+			'/interview/one/notes/闭包',
+			'/interview/one/notes/原型',
+			'/interview/one/notes/promise',
 		  ]
 		}
 	]
