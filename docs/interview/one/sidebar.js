@@ -12,6 +12,7 @@ module.exports = [
 			'/interview/one/notes/this指向',
 			'/interview/one/notes/js继承',
 			'/interview/one/notes/es6知识点',
+			'/interview/one/notes/创建对象',
 		  ]
 		}
 	]
