@@ -10,6 +10,7 @@
 + [promise](./notes/promise)
 + [this指向](./notes/this指向)
 + [js继承](./notes/js继承)
++ [es6知识点](./notes/es6知识点)
 
 
 

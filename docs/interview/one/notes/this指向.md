@@ -4,7 +4,7 @@
 + [call, apply, bind](#cal)   
 
 
-<span id="th">**this指向**</span>  
+<span id="th">**一、this指向**</span>  
 
 **分为四种：**    
 + 默认绑模式 中this指向window。
@@ -197,7 +197,7 @@ obj.print1(); // window
 obj.print2(); // netease
 ```
 
-**new绑定：**     
+**4、new绑定：**     
 我们使用new来调用函数的时候，就会新对象绑定到这个函数的this上。但是前提是构造函数中没有返回对象或者是function，否则this指向这个对象或者是function。
 ```javascript
 function sayHi(name) {
@@ -259,7 +259,7 @@ obj.say(); //输出window    obj对象不存在this,往上找就是全局的this
 ```
 
 
-<span id="cal">**call, apply, bind**</span> 
+<span id="cal">**二、call, apply, bind**</span> 
 
 + fn.call(this指向，参数1，...) : 第一个参数是this指向，之后参数为向fn函数传递的参数；改变this指向并直接调用
 + fn.apply(this指向，[参数1，...]) : 第二个参数是一个包含多个参数的数组；改变this指向并直接调用；

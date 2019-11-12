@@ -11,6 +11,7 @@ module.exports = [
 			'/interview/one/notes/promise',
 			'/interview/one/notes/this指向',
 			'/interview/one/notes/js继承',
+			'/interview/one/notes/es6知识点',
 		  ]
 		}
 	]
