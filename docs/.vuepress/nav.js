@@ -21,7 +21,9 @@ module.exports = [
         text: '面试知识',
 		items: [
             {text: 'js基础知识', link: '/interview/one/'},
+            {text: 'html+css', link: '/interview/three/'},
             {text: 'vue', link: '/interview/two/'},
+            {text: '网络相关', link: '/interview/four/'},
         ]
     },
     {

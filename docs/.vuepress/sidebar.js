@@ -9,5 +9,7 @@ module.exports = {
 	'/suanfa/two': require('../suanfa/two/sidebar'),
 
 	'/interview/one': require('../interview/one/sidebar'),
-	'/interview/two': require('../interview/two/sidebar')
+	'/interview/two': require('../interview/two/sidebar'),
+	'/interview/three': require('../interview/three/sidebar'),
+	'/interview/four': require('../interview/four/sidebar')
 }
