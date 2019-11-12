@@ -1,10 +1,10 @@
-### promise
+## promise
 
 + [promise](#pp)   
 + [Generator,async](#ge)
 
 
-<span id="pp">**promise**</span>  
+### <span id="pp">**promise**</span>  
 **定义：**    
 是一个对象，用来**传递异步操作的消息**，避免了层层嵌套的回调函数。      
 
@@ -244,7 +244,8 @@ function promiseAll(promises) {
   })
 }
 ```
-<span id="ge">**promise, generator,async/await:**</span>      
+### <span id="ge">**promise, generator,async/await:**</span>     
+
 **关系**：Promise是基础，Generator和async/await串连多个Promise的同步执行，也就是把Promise的异步特性变为同步，编程更爽。async/await是Generator的语法糖，就是将**generator+自动执行器**封装到一起实现。
 
 **Generator**（生成器）：可以实现程序的暂停和多次返回    
