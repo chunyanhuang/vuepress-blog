@@ -15,6 +15,8 @@ module.exports = [
 			'/interview/one/notes/创建对象',
 			'/interview/one/notes/本地存储',
 			'/interview/one/notes/跨域',
+			'/interview/one/notes/前端安全',
+			'/interview/one/notes/深浅拷贝',
 		  ]
 		}
 	]
