@@ -9,6 +9,7 @@
 + [原型](./notes/原型)
 + [promise](./notes/promise)
 + [this指向](./notes/this指向)
++ [js继承](./notes/js继承)
 
 
 

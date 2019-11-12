@@ -10,6 +10,7 @@ module.exports = [
 			'/interview/one/notes/原型',
 			'/interview/one/notes/promise',
 			'/interview/one/notes/this指向',
+			'/interview/one/notes/js继承',
 		  ]
 		}
 	]
