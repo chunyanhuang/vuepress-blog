@@ -17,6 +17,7 @@ module.exports = [
 			'/interview/one/notes/跨域',
 			'/interview/one/notes/前端安全',
 			'/interview/one/notes/深浅拷贝',
+			'/interview/one/notes/异步请求',
 		  ]
 		}
 	]
