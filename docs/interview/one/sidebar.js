@@ -18,6 +18,8 @@ module.exports = [
 			'/interview/one/notes/前端安全',
 			'/interview/one/notes/深浅拷贝',
 			'/interview/one/notes/异步请求',
+			'/interview/one/notes/事件机制',
+			'/interview/one/notes/js实现栈和队列',
 		  ]
 		}
 	]
