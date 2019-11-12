@@ -8,6 +8,7 @@
 + [闭包](./notes/闭包)
 + [原型](./notes/原型)
 + [promise](./notes/promise)
++ [this指向](./notes/this指向)
 
 
 
