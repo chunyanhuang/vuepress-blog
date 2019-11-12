@@ -1,16 +1,19 @@
 ### promise
 
-[promise](#pp)
-[Generator,async](#ge)
++ [promise](#pp)   
++ [Generator,async](#ge)
 
 
-<span id="pp">##### promise</span>  
+<span id="pp">**promise**</span>  
 **定义：**    
 是一个对象，用来**传递异步操作的消息**，避免了层层嵌套的回调函数。      
+
 **发展：**      
 ES6诞生以前，异步编程的方法，大概有如下四种：**回调函数、事件监听、发布/订阅、Promise对象**；ES6中，引入了**Generator函数**；ES7中，**async**更是将异步编程带入了一个全新的阶段。   
+
 **解决的问题：**      
-回调地狱，即异步回调 多层嵌套形成；不易维护。（嵌套是因为后面的异步操作依赖前面的结果）。       
+回调地狱，即异步回调 多层嵌套形成；不易维护。（嵌套是因为后面的异步操作依赖前面的结果）。    
+
 **promise的三种状态：**       
 + 初始化，状态：pending
 + 当调用resolve(成功)，状态：pending=>fulfilled
@@ -75,9 +78,9 @@ function queryData(url) {
 ```
 
 **promise常用API:**      
-+ **p.then()** 异步处理的正确结果。**作用**：为promise实例添加状态改变时的回调函数
-- **p.catch()：**出现异常会调用的函数
-- **p.finally()：**不管是成功还是失败都会触发
+- **p.then()**  异步处理的正确结果。**作用**：为promise实例添加状态改变时的回调函数
+- **p.catch()：**  出现异常会调用的函数
+- **p.finally()：** 不管是成功还是失败都会触发
 - **Promise.all()**  并发处理多个异步任务，所有任务都成功才返回成功的结果，有一个出错就返回错误的结果
 - **Promise.race()**  并发处理多个异步任务，有一个任务执行完就得到结果
 
@@ -244,7 +247,7 @@ function promiseAll(promises) {
 <span id="ge">**promise, generator,async/await:**</span>      
 **关系**：Promise是基础，Generator和async/await串连多个Promise的同步执行，也就是把Promise的异步特性变为同步，编程更爽。async/await是Generator的语法糖，就是将**generator+自动执行器**封装到一起实现。
 
-##### **Generator**（生成器）：可以实现程序的暂停和多次返回
+**Generator**（生成器）：可以实现程序的暂停和多次返回    
 
 - 生成器是一种类协程或半协程，它提供了一种可以通过**特定语句或方法使其执行对象暂停**的功能。 
   Generator函数，返回一个部署了Iterator接口的遍历器对象，用来操作内部指针。以后，每次调用遍历器对象的next方法，就会返回一个有着value和done两个属性的对象。value属性表示当前的内部状态的值，是yield语句后面那个表达式的值；done属性是一个布尔值，表示是否遍历结束。
